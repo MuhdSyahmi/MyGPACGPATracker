@@ -23,3 +23,13 @@ The Cumulative Grade Point Average (CGPA) is the overall GPA of the entire acade
 
 -GPA achieved (Current Semester)
 
+The application was built using Android Studio. The application requires 4 steps.
+
+Step 1: Enter the data in the Credit Hours and the Grade Achieved in the ADD NEW EXAM RESULT or VIEW GPA/CGPA RESULT to check the previous GPA/CGPA results.
+
+Step 2: Click the CALCULATE  button to calculate and to view the GPA, total credits, and performance status
+
+Step 3: Click the Reset button to empty the Credit Hours and the Grade Achieved to clear the data
+
+Step 4: Click the Back to main button to return to the main interface
+The result will be saved in the database.
