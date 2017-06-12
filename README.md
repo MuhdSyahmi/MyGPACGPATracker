@@ -1,10 +1,10 @@
 # MyGPACGPATracker
 
-![screenshot_1496939125](https://user-images.githubusercontent.com/29269210/26940479-5fff087e-4cad-11e7-99c8-98eb3f6203ee.png)
-![screenshot_1496939133](https://user-images.githubusercontent.com/29269210/26940484-643150f0-4cad-11e7-86a7-d5919b163453.png)
-![screenshot_1496939143](https://user-images.githubusercontent.com/29269210/26940490-67ac4faa-4cad-11e7-816e-7276f97e7248.png)
-![screenshot_1496939148](https://user-images.githubusercontent.com/29269210/26940494-6a911d5e-4cad-11e7-9d5d-11d518674836.png)
-![screenshot_1496939154](https://user-images.githubusercontent.com/29269210/26940496-6dbd33fa-4cad-11e7-9b0f-d02844f8cd38.png)
+<img src="https://user-images.githubusercontent.com/29269210/26940957-3f61e684-4caf-11e7-9a58-03c2560d4003.jpg" width="300" height="500" />
+<img src="https://user-images.githubusercontent.com/29269210/26940978-4b7e0f24-4caf-11e7-9a00-65e5a292bfe6.jpg" width="300" height="500" />
+<img src="https://user-images.githubusercontent.com/29269210/26940982-4e6b5200-4caf-11e7-9c12-e8f12aefa414.jpg" width="300" height="500" />
+<img src="https://user-images.githubusercontent.com/29269210/26940989-510ea6a6-4caf-11e7-862f-310a114e08ea.jpg" width="300" height="500" />
+<img src="https://user-images.githubusercontent.com/29269210/26940991-52e8ab84-4caf-11e7-935f-fdf86836bcab.jpg" width="300" height="500" />
 
 D. NAJAH ATIQAH BINTI A. SAIFUDDIN	B031610423.
 
