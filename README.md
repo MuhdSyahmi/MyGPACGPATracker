@@ -38,5 +38,3 @@ The application was built using Android Studio. The application has 5 functions.
 4. Edit every subject result for selected semester.
 
 5. Delete selected semester information.
-
-
