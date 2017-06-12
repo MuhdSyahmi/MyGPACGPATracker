@@ -1,9 +1,6 @@
 package com.bitp3453.miniproject.mygpacgpatracker;
 
-import android.app.Dialog;
-import android.content.DialogInterface;
 import android.database.Cursor;
-import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
