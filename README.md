@@ -65,6 +65,6 @@ How to setup the development environment
 
 4. java-json.jar
 
-5. https://thesecretproject.000webhostapp.com/
+5. https://thesecretproject.000webhostapp.com/pages/globalWebServiceNew.php
 
 
