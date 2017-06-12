@@ -5,11 +5,16 @@
 <img src="https://user-images.githubusercontent.com/29269210/26940991-52e8ab84-4caf-11e7-935f-fdf86836bcab.jpg" width="300" height="500" />
 
 TEAM MEMBERS: 
-1.D. NAJAH ATIQAH BINTI A. SAIFUDDIN		B031610423
-2.PUTERI HAZIRAH BINTI HAMSAN			B031610422
-3.NURUL FARAHIN BINTI IRWAN SHAH		B031610449
-4.AMIRUDDIN BIN BAZLI				B031610433
-5.MUHD SYAHMI SYAZWAN BIN SULAIMAN		B031610417
+
+1. D. NAJAH ATIQAH BINTI A. SAIFUDDIN		(B031610423)
+
+2. PUTERI HAZIRAH BINTI HAMSAN			(B031610422)
+
+3. NURUL FARAHIN BINTI IRWAN SHAH		(B031610449)
+
+4. AMIRUDDIN BIN BAZLI				(B031610433)
+
+5. MUHD SYAHMI SYAZWAN BIN SULAIMAN		(B031610417)
 
 This application will calculate Grade Point Average(GPA) and Cumulative Grade Point Average(CGPA) to assist student or any user that need their GPA and CGPA by the end of the semester. 
 A student’s Grade Point Average is the weighted mean value of all grade points he/she earned by enrollment, or through credit by examination, in a semester/session of attendance at university. 
