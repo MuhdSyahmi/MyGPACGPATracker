@@ -19,13 +19,13 @@ A student’s Grade Point Average is the weighted mean value of all grade points
 Grade Point Average(GPA) is the calculation which is used at the end of a semester. The GPA is the key to calculate the student performance which is evaluated by the teacher or authorized person. There are two input areas where the end-user or the student requires to enter the data. 
 The Cumulative Grade Point Average (CGPA) is the overall GPA of the entire academic year at the university. The CGPA is considered as the final performance report for a student. There are four input areas where the end-user or the student requires to enter the data:
 
--Previous total credits completed
+ - Previous total credits completed
 
--Previous CGPA, not GPA
+ - Previous CGPA, not GPA
 
--Total credits taken in this semester
+ - Total credits taken in this semester
 
--GPA achieved (Current Semester)
+ - GPA achieved (Current Semester)
 
 The application was built using Android Studio. The application has 5 functions.
 
@@ -38,4 +38,31 @@ The application was built using Android Studio. The application has 5 functions.
 4. Edit every subject result for selected semester.
 
 5. Delete selected semester information.
+
+Libraries or external API’s being used in this project.
+
+1. JSON API
+
+2. SOAP(Simple Object Access Protocol)
+
+3. apache-httpcomponentes-httpclient.jar
+
+4. apache-httpcomponents-httpcore.jar
+	
+5. commons-logging-1.2.jar
+
+6. java-json.jar
+
+How to setup the development environment 
+
+1. apache-httpcomponentes-httpclient.jar
+
+2. apache-httpcomponents-httpcore.jar
+	
+3. commons-logging-1.2.jar
+
+4. java-json.jar
+
+5. https://thesecretproject.000webhostapp.com/
+
 
