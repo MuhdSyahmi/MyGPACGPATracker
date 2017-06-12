@@ -6,11 +6,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -21,7 +19,7 @@ public class ListViewGPAResult extends AppCompatActivity {
     String strGpaSem = MyGPAdb.colGpaSem;
     String strGpaTotal = MyGPAdb.colGpaTotal;
     Cursor cursor;
-    TextView totalCGPA, txtVwGpaSem, txtVwGpaTotal, txtVwGpaID;
+    TextView totalCGPA, txtVwGpaSem, txtVwGpaID;
 
     MyGPAdb dbMyGPA;
     ListView lvExp;
