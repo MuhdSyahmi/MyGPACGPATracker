@@ -1,9 +1,7 @@
 # MyGPACGPATracker
 
-<img src="https://user-images.githubusercontent.com/29269210/26940957-3f61e684-4caf-11e7-9a58-03c2560d4003.jpg" width="300" height="500" />
-<img src="https://user-images.githubusercontent.com/29269210/26940978-4b7e0f24-4caf-11e7-9a00-65e5a292bfe6.jpg" width="300" height="500" />
-<img src="https://user-images.githubusercontent.com/29269210/26940982-4e6b5200-4caf-11e7-9c12-e8f12aefa414.jpg" width="300" height="500" />
-<img src="https://user-images.githubusercontent.com/29269210/26940989-510ea6a6-4caf-11e7-862f-310a114e08ea.jpg" width="300" height="500" />
+<img src="https://user-images.githubusercontent.com/29269210/26940957-3f61e684-4caf-11e7-9a58-03c2560d4003.jpg" width="300" height="500" /> <img src="https://user-images.githubusercontent.com/29269210/26940978-4b7e0f24-4caf-11e7-9a00-65e5a292bfe6.jpg" width="300" height="500" /> 
+<img src="https://user-images.githubusercontent.com/29269210/26940982-4e6b5200-4caf-11e7-9c12-e8f12aefa414.jpg" width="300" height="500" /> <img src="https://user-images.githubusercontent.com/29269210/26940989-510ea6a6-4caf-11e7-862f-310a114e08ea.jpg" width="300" height="500" /> 
 <img src="https://user-images.githubusercontent.com/29269210/26940991-52e8ab84-4caf-11e7-935f-fdf86836bcab.jpg" width="300" height="500" />
 
 D. NAJAH ATIQAH BINTI A. SAIFUDDIN	B031610423.
@@ -29,13 +27,16 @@ The Cumulative Grade Point Average (CGPA) is the overall GPA of the entire acade
 
 -GPA achieved (Current Semester)
 
-The application was built using Android Studio. The application requires 4 steps.
+The application was built using Android Studio. The application has 5 functions.
 
-Step 1: Enter the data in the Credit Hours and the Grade Achieved in the ADD NEW EXAM RESULT or VIEW GPA/CGPA RESULT to check the previous GPA/CGPA results.
+1. Calculate GPA for every semester.
 
-Step 2: Click the CALCULATE  button to calculate and to view the GPA, total credits, and performance status
+2. Save GPA result for every semester.
 
-Step 3: Click the Reset button to empty the Credit Hours and the Grade Achieved to clear the data
+3. Display total CGPA for every semester.
 
-Step 4: Click the Back to main button to return to the main interface
-The result will be saved in the database.
+4. Edit every subject result for selected semester.
+
+5. Delete selected semester information.
+
+
