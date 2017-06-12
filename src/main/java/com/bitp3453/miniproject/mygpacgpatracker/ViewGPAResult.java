@@ -7,14 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import org.apache.http.NameValuePair;
-import org.apache.http.message.BasicNameValuePair;
 import org.json.JSONObject;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class ViewGPAResult extends AppCompatActivity {
 
