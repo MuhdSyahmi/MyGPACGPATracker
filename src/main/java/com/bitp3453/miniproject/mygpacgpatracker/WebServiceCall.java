@@ -17,7 +17,7 @@ import java.util.List;
 public class WebServiceCall {
 
     JSONObject jsonObj;
-    String strUrl = "asd";
+    String strUrl = "";
 
     public WebServiceCall() {
         jsonObj = null;
