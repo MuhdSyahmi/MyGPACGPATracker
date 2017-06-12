@@ -15,7 +15,7 @@ public class MyGPAdb extends SQLiteOpenHelper {
     public static final String colGpaId = "gpa_id";
     public static final String colGpaSem = "gpa_sem";
     public static final String colGpaTotal = "gpa_total";
-    public static final String colSubjId = "subj_id";
+    public static final String colSubjId = "subj_id1";
     public static final String colSubjName = "subj_name";
     public static final String colSubjGred = "subj_gred";
     public static final String colSubjCredit = "subj_credit";
