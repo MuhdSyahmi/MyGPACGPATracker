@@ -24,9 +24,6 @@ public class ViewGPAResult extends AppCompatActivity {
             strSubjName5, strSubjGrade5, strSubjCredit5,strSubjName6, strSubjGrade6, strSubjCredit6,
             strSubjName7, strSubjGrade7, strSubjCredit7, strGpaTotal;
     MyGPAdb dbMyGPA;
-    Double total1, total2, totalGPA;
-    WebServiceCall wsc = new WebServiceCall();
-    JSONObject jsnObj = new JSONObject();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
